@@ -54,7 +54,7 @@ class Image:
 
     def histogram(self, path: str | Path):
         # TODO: Funkcja tworzy histogram i zapisuje go w ścieżce path
-        pritn("Koniec Świata")
+        prints("Koniec Świata")
 
     def blur(self):
         # TODO: Funkcja rozmywa obraz metodą np. Gaussa i podmienia zmienną self.image
